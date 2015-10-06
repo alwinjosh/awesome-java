@@ -667,6 +667,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Vanilla Java](http://vanillajava.blogspot.ch/)
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
+* [Jenkov](http://jenkov.com/)
 
 # Contributing
 
